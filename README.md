@@ -65,6 +65,7 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
     <td align="center"><sub>Front Isometric View</sub></td>
   </tr>
 </table>
+
 ## Copyright & Licensing
 
 Copyright © Talha Akhlaq
@@ -73,3 +74,4 @@ Distributed under the MIT License. See LICENSE for details.
 ##
 
 For more information on my projects and coursework, please see my [repositories](https://github.com/TalhaAkhlaq?tab=repositories).
+
