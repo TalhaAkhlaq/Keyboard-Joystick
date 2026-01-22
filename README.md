@@ -4,8 +4,9 @@ Inspired by [MaxxStick](https://maxxstick.com/) and [Gaming Mod Kits](https://ww
 
 ## Used
 - CAD: Onshape
-- 3D printer: Qidi Plus 4
 - Slicer: OrcaSlicer (https://github.com/OrcaSlicer/OrcaSlicer)
+- 3D Printer: Qidi Plus 4
+
 
 ## Versions
 
