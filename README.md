@@ -32,6 +32,8 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 ## Copyright & Licensing
 
 Copyright © Talha Akhlaq
+##
+
 Distributed under the MIT License. See `LICENSE` for details.
 
 For more information on my projects and other academic work, please visit my [GitHub profile](https://github.com/TalhaAkhlaq).
