@@ -22,6 +22,7 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 ### Version 3: MaxxStick + Wooting 60HE Mod
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
 
+## Views
 <table>
   <tr>
     <td align="center" width="25%">
@@ -38,10 +39,10 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
     </td>
   </tr>
   <tr>
-    <td align="center"><sub>Left Side View</sub></td>
-    <td align="center"><sub>Bottom View</sub></td>
-    <td align="center"><sub>Right Side View</sub></td>
-    <td align="center"><sub>Back View</sub></td>
+    <td align="center"><sub>Left</sub></td>
+    <td align="center"><sub>Bottom</sub></td>
+    <td align="center"><sub>Right</sub></td>
+    <td align="center"><sub>Back</sub></td>
   </tr>
   
   <tr>
@@ -59,10 +60,10 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
     </td>
   </tr>
   <tr>
-    <td align="center"><sub>Front View</sub></td>
-    <td align="center"><sub>Isometric View</sub></td>
-    <td align="center"><sub>Isometric Section (Cutaway)</sub></td>
-    <td align="center"><sub>Front Isometric View</sub></td>
+    <td align="center"><sub>Front</sub></td>
+    <td align="center"><sub>Isometric</sub></td>
+    <td align="center"><sub>Isometric</sub></td>
+    <td align="center"><sub>Isometric</sub></td>
   </tr>
 </table>
 
