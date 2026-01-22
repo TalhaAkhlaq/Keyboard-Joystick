@@ -20,7 +20,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 ### Version 2: GMK Joystick + Wooting 60HE Mod
 - <add notes and images here>
 
-### Version 3: MaxxStick + Wooting 60HE Mod
+### Version 3: MaxxStick-Inspired Design with Wooting 60HE Mod
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
 
 <table>
