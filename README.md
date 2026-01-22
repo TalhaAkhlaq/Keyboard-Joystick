@@ -24,7 +24,7 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 
 | | |
 | :---: | :---: |
-| <img src="Version3_1.png" width="420"><br>Left Side View | <img src="Version3_2.png" width="420"><br>Bottom View |
-| <img src="Version3_3.png" width="420"><br>Right Side View | <img src="Version3_4.png" width="420"><br>Back View |
-| <img src="Version3_5.png" width="420"><br>Front View | <img src="Version3 (6).png" width="420"><br>Isometric View |
-| <img src="Version3 (7).png" width="420"><br>Isometric Section (Cutaway) | <img src="Version3 (8).png" width="420"><br>Front Isometric View |
+| <img src="Version3_1.png" width="420"><br>Left side view | <img src="Version3_2.png" width="420"><br>Top view (plan) |
+| <img src="Version3_3.png" width="420"><br>Right side view | <img src="Version3_4.png" width="420"><br>Rear view (end) |
+| <img src="Version3_5.png" width="420"><br>Front section (cutaway) | <img src="Version3 (6).png" width="420"><br>Isometric view |
+| <img src="Version3 (7).png" width="420"><br>Isometric section (cutaway) | <img src="Version3 (8).png" width="420"><br>Front isometric view |
