@@ -60,9 +60,9 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
   </tr>
   <tr>
     <td align="center"><sub>Front</sub></td>
-    <td align="center"><sub>Isometric</sub></td>
-    <td align="center"><sub>Isometric</sub></td>
-    <td align="center"><sub>Isometric</sub></td>
+    <td align="center"><sub>Left Isometric</sub></td>
+    <td align="center"><sub>Right Isometric</sub></td>
+    <td align="center"><sub>Front Isometric</sub></td>
   </tr>
 </table>
 
