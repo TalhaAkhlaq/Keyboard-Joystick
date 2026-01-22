@@ -48,7 +48,7 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
   <tr>
     <td align="center" width="33%"><img src="Version3 (8).png" width="100%"></td>
     <td align="center" width="33%"><img src="Version3_5.png" width="100%"></td>
-    <td align="center" width="33%"><img src="Version3_9.png" width="100%"></td>
+    <td align="center" width="33%"><img src="Version3__9.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><sub>Front view</sub></td>
