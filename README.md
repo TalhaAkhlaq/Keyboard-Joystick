@@ -22,7 +22,6 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 ### Version 3: MaxxStick + Wooting 60HE Mod
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
 
-## Views
 <table>
   <tr>
     <td align="center" width="25%">
