@@ -1,6 +1,6 @@
 # Keyboard-Joystick
 
-Inspired by [MaxxStick](https://maxxstick.com/) and [Gaming Mod Kits](https://www.gamingmodkits.com/product/keyboardjoystick/2) keyboard-joystick controllers, the general proportions and geometry were recreated in Onshape.
+Inspired by [MaxxStick](https://maxxstick.com/) and [Gaming Mod Kits](https://www.gamingmodkits.com/product/keyboardjoystick/2) keyboard-joystick controllers, this project recreates the general proportions and geometry in Onshape.
 
 ## Used
 - CAD: [Onshape](https://www.onshape.com/en/)
