@@ -7,6 +7,7 @@ Inspired by [MaxxStick](https://maxxstick.com/) and [Gaming Mod Kits](https://ww
 - Slicer: [OrcaSlicer](https://www.orcaslicer.com/)
 - 3D Printer: [Qidi Plus 4](https://us.qidi3d.com/)
 
+##
 ### Wooting 60 HE Mod
 
 Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during joystick use.
