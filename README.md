@@ -10,7 +10,7 @@ Inspired by [MaxxStick](https://maxxstick.com/) and [Gaming Mod Kits](https://ww
 ##
 ### Wooting 60 HE Mod
 
-Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during joystick use.
+Designed an attachment for the Wooting 60HE that adds a stable handhold during joystick use.
 
 ## Versions
 
