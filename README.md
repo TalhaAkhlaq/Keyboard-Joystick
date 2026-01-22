@@ -22,13 +22,49 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 ### Version 3: MaxxStick + Wooting 60HE Mod
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
 
-| &nbsp; | &nbsp; |
-| :---: | :---: |
-| <img src="Version3_1.png" width="420"><br>Left Side View | <img src="Version3_2.png" width="420"><br>Bottom View |
-| <img src="Version3_3.png" width="420"><br>Right Side View | <img src="Version3_4.png" width="420"><br>Back View |
-| <img src="Version3_5.png" width="420"><br>Front View | <img src="Version3 (6).png" width="420"><br>Isometric View |
-| <img src="Version3 (7).png" width="420"><br>Isometric Section (Cutaway) | <img src="Version3 (8).png" width="420"><br>Front Isometric View |
-
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="Version3_1.png" width="100%">
+    </td>
+    <td align="center" width="25%">
+      <img src="Version3_2.png" width="100%">
+    </td>
+    <td align="center" width="25%">
+      <img src="Version3_3.png" width="100%">
+    </td>
+    <td align="center" width="25%">
+      <img src="Version3_4.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Left Side View</sub></td>
+    <td align="center"><sub>Bottom View</sub></td>
+    <td align="center"><sub>Right Side View</sub></td>
+    <td align="center"><sub>Back View</sub></td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="25%">
+      <img src="Version3_5.png" width="100%">
+    </td>
+    <td align="center" width="25%">
+      <img src="Version3 (6).png" width="100%">
+    </td>
+    <td align="center" width="25%">
+      <img src="Version3 (7).png" width="100%">
+    </td>
+    <td align="center" width="25%">
+      <img src="Version3 (8).png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Front View</sub></td>
+    <td align="center"><sub>Isometric View</sub></td>
+    <td align="center"><sub>Isometric Section (Cutaway)</sub></td>
+    <td align="center"><sub>Front Isometric View</sub></td>
+  </tr>
+</table>
 ## Copyright & Licensing
 
 Copyright © Talha Akhlaq
