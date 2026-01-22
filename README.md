@@ -16,7 +16,7 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 ### Version 1
 - <add notes and images here>
 
-### Version 2
+### Version 2: GMK Joystick + Wooting 60HE Mod
 - <add notes and images here>
 
 ### Version 3: MaxxStick + Wooting 60HE Mod
