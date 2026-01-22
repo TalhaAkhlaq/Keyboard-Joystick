@@ -23,7 +23,6 @@ Designed a clamp-on grip for the Wooting 60HE to add a stable handhold during jo
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
 
 | | |
-| :---: | :---: |
 | <img src="Version3_1.png" width="420"><br>Left Side View | <img src="Version3_2.png" width="420"><br>Bottom View |
 | <img src="Version3_3.png" width="420"><br>Right Side View | <img src="Version3_4.png" width="420"><br>Back View |
 | <img src="Version3_5.png" width="420"><br>Front View | <img src="Version3 (6).png" width="420"><br>Isometric View |
