@@ -15,10 +15,32 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 ## Versions
 
 ### Version 1
-- <add notes and images here>
 
 ### Version 2: GMK Joystick + Wooting 60HE Mod
-- <add notes and images here>
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="Version_2_5.png" width="100%"></td>
+    <td align="center" width="33%"><img src="Version_2_1.png" width="100%"></td>
+    <td align="center" width="33%"><img src="Version_2_4.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Left (assembly)</sub></td>
+    <td align="center"><sub>Right (assembly)</sub></td>
+    <td align="center"><sub>Interior</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%"><img src="Version_2_3.png" width="100%"></td>
+    <td align="center" width="33%"><img src="Version_2_2.png" width="100%"></td>
+    <td align="center" width="33%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Left (profile)</sub></td>
+    <td align="center"><sub>Right (profile)</sub></td>
+    <td align="center"><sub></sub></td>
+  </tr>
+</table>
+
 
 ### Version 3: MaxxStick-Inspired Design with Wooting 60HE Mod
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
@@ -58,8 +80,6 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
   </tr>
 </table>
 
-
-
 ## Copyright & Licensing
 
 Copyright © Talha Akhlaq
@@ -68,4 +88,3 @@ Distributed under the MIT License. See LICENSE for details.
 ##
 
 For more information on my projects and coursework, please see my [repositories](https://github.com/TalhaAkhlaq?tab=repositories).
-
