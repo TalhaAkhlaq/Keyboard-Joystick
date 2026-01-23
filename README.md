@@ -15,7 +15,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 ## Versions
 
 ### Version 1: GMK Joystick Ensloure + Maxxstick PCB  
-- Designed in conjunction with [Taha Akhlaq](https://github.com/TahaAkhlaq)
+- Designed in conjunction with [Taha A.](https://github.com/TahaAkhlaq)
 
 <table>
   <colgroup>
