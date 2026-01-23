@@ -17,7 +17,36 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 ### Version 1: GMK Joystick Ensloure + Maxxstick PCB  
 - Designed in conjunction with [Taha Akhlaq](https://github.com/TahaAkhlaq)
 
+<table>
+  <colgroup>
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+  </colgroup>
 
+  <tr>
+    <td align="center" colspan="2"><img src="Version%201_4.png" height="260"></td>
+    <td align="center" colspan="2"><img src="Version%201_5.png" height="260"></td>
+    <td align="center" colspan="2"><img src="Version%201_1.png" height="260"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><sub>Isometric (Right)</sub></td>
+    <td align="center" colspan="2"><sub>Isometric (Left)</sub></td>
+    <td align="center" colspan="2"><sub>Interior</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="3"><img src="Version%201_3.png" height="220"></td>
+    <td align="center" colspan="3"><img src="Version%201_2.png" height="220"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><sub>Back</sub></td>
+    <td align="center" colspan="3"><sub>Left</sub></td>
+  </tr>
+</table>
 
 ### Version 2: GMK Joystick Inspired Design with Wooting 60HE Mod (GMK's PCB)
 
