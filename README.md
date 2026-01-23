@@ -38,7 +38,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
   <tr>
     <td align="center"><sub>Left</sub></td>
     <td align="center"><sub>Right</sub></td>
-    <td align="center"><sub>Left</sub></td>
+    <td align="center"><sub>Bottom</sub></td>
   </tr>
 
   <tr>
@@ -47,7 +47,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
     <td align="center" width="33%">&nbsp;</td>
   </tr>
   <tr>
-    <td align="center"><sub>Right</sub></td>
+    <td align="center"><sub>Top</sub></td>
     <td align="center"><sub></sub></td>
     <td align="center"><sub></sub></td>
   </tr>
