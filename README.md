@@ -19,6 +19,15 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 ### Version 2: GMK Joystick Inspired Design with Wooting 60HE Mod
 
 <table>
+  <colgroup>
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+    <col width="16.66%">
+  </colgroup>
+
   <tr>
     <td align="center" colspan="2"><img src="Version2_7.png" height="260"></td>
     <td align="center" colspan="2"><img src="Version2_8.png" height="260"></td>
@@ -29,23 +38,26 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
     <td align="center" colspan="2"><sub>Isometric (Rear)</sub></td>
     <td align="center" colspan="2"><sub>Interior</sub></td>
   </tr>
+
   <tr>
-    <td align="center" colspan="3"><img src="Version_2_2.png" height="260"></td>
-    <td align="center" colspan="3"><img src="Version_2_3.png" height="260"></td>
+    <td align="center" colspan="3"><img src="Version_2_2.png" height="220"></td>
+    <td align="center" colspan="3"><img src="Version_2_3.png" height="220"></td>
   </tr>
   <tr>
     <td align="center" colspan="3"><sub>Top</sub></td>
     <td align="center" colspan="3"><sub>Bottom</sub></td>
   </tr>
+
   <tr>
-    <td align="center" colspan="3"><img src="Version_2_5.png" height="260"></td>
-    <td align="center" colspan="3"><img src="Version_2_1.png" height="260"></td>
+    <td align="center" colspan="3"><img src="Version_2_5.png" height="520"></td>
+    <td align="center" colspan="3"><img src="Version_2_1.png" height="520"></td>
   </tr>
   <tr>
     <td align="center" colspan="3"><sub>Left</sub></td>
     <td align="center" colspan="3"><sub>Right</sub></td>
   </tr>
 </table>
+
 
 ### Version 3: MaxxStick-Inspired Design with Wooting 60HE Mod
 - Built over 6 days (~120 hours total) across CAD iteration, print tests, and assembly/tolerance adjustments.
