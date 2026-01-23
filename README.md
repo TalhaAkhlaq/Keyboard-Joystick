@@ -19,32 +19,27 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 ### Version 2: GMK Joystick Inspired Design with Wooting 60HE Mod
 
 <table>
-  <!-- Row 1: 3-up (each spans 2 of 6 columns) -->
   <tr>
-    <td align="center" colspan="2"><img src="Version2_7.png" width="100%"></td>
-    <td align="center" colspan="2"><img src="Version2_8.png" width="100%"></td>
-    <td align="center" colspan="2"><img src="Version_2_4.png" width="100%"></td>
+    <td align="center" colspan="2"><img src="Version2_7.png" height="260"></td>
+    <td align="center" colspan="2"><img src="Version2_8.png" height="260"></td>
+    <td align="center" colspan="2"><img src="Version_2_4.png" height="260"></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><sub>Isometric (Front)</sub></td>
     <td align="center" colspan="2"><sub>Isometric (Rear)</sub></td>
     <td align="center" colspan="2"><sub>Interior</sub></td>
   </tr>
-
-  <!-- Row 2: 2-up centered (each spans 3 of 6 columns) -->
   <tr>
-    <td align="center" colspan="3"><img src="Version_2_2.png" width="60%"></td>
-    <td align="center" colspan="3"><img src="Version_2_3.png" width="60%"></td>
+    <td align="center" colspan="3"><img src="Version_2_2.png" height="220"></td>
+    <td align="center" colspan="3"><img src="Version_2_3.png" height="220"></td>
   </tr>
   <tr>
     <td align="center" colspan="3"><sub>Top</sub></td>
     <td align="center" colspan="3"><sub>Bottom</sub></td>
   </tr>
-
-  <!-- Row 3: 2-up centered (each spans 3 of 6 columns) -->
   <tr>
-    <td align="center" colspan="3"><img src="Version_2_5.png" width="60%"></td>
-    <td align="center" colspan="3"><img src="Version_2_1.png" width="60%"></td>
+    <td align="center" colspan="3"><img src="Version_2_5.png" height="520"></td>
+    <td align="center" colspan="3"><img src="Version_2_1.png" height="520"></td>
   </tr>
   <tr>
     <td align="center" colspan="3"><sub>Left</sub></td>
