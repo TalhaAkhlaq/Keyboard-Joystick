@@ -42,7 +42,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 
   <!-- Row 2: 2-up centered -->
   <tr>
-    <td align="center" colspan="3"><img src="Version_2_2.png" height="220"></td>
+    <td align="center" colspan="3"><img src="Version 2 2.png" height="220"></td>
     <td align="center" colspan="3"><img src="Version_2_3.png" height="220"></td>
   </tr>
   <tr>
