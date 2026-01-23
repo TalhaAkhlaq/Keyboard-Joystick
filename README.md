@@ -16,7 +16,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 
 ### Version 1
 
-### Version 2: GMK Joystick + Wooting 60HE Mod
+### Version 2: GMK Joystick Inspired Design with Wooting 60HE Mod
 
 <table>
   <tr>
