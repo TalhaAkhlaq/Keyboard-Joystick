@@ -1,4 +1,5 @@
 # Keyboard Joystick
+- Designed in conjunction with [Taha A.](https://github.com/TahaAkhlaq)
 
 Inspired by [MaxxStick](https://maxxstick.com/) and [GMK](https://www.gamingmodkits.com/product/keyboardjoystick/2) keyboard-joystick controllers, I recreated the general proportions and geometry in Onshape.
 
@@ -14,8 +15,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
 
 ## Versions
 
-### Version 1: GMK Joystick Ensloure + Maxxstick PCB  
-- Designed in conjunction with [Taha A.](https://github.com/TahaAkhlaq)
+### Version 1: GMK Joystick Ensloure (Maxxstick's PCB)
 
 <table>
   <colgroup>
@@ -125,6 +125,10 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
     <td align="center"><sub>Interior</sub></td>
   </tr>
 </table>
+
+## Version 4: Teensy 4.0 + TMR Joystick (In Progress)
+
+Migrating the controller to a **Teensy 4.0** and upgrading to a **TMR Hall-effect joystick** to improve stability, precision, and response.
 
 ## Copyright & Licensing
 
