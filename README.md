@@ -126,7 +126,7 @@ Designed an attachment for the Wooting 60HE that adds a stable handhold during j
   </tr>
 </table>
 
-## Version 4: Teensy 4.0 + TMR Joystick (In Progress)
+## Version 4: Teensy 4.0 & TMR Joystick (In Progress)
 
 Migrating the controller to a **Teensy 4.0** and upgrading to a **TMR Hall-effect joystick** to improve stability, precision, and response.
 
