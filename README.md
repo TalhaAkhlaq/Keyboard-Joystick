@@ -1,4 +1,4 @@
-# Keyboard-Joystick
+# Keyboard Joystick
 
 Inspired by [MaxxStick](https://maxxstick.com/) and [GMK](https://www.gamingmodkits.com/product/keyboardjoystick/2) keyboard-joystick controllers, I recreated the general proportions and geometry in Onshape.
 
